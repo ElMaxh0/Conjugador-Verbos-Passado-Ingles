@@ -1,0 +1,20 @@
+		@font-face {
+
+		     font-family: nougat;
+
+		     src: url('http://123alehot.rf.gd/1/2ndCalc/fonts/ErikaRichardos.ttf');
+
+		}
+
+		h9 {
+
+			margin:150px auto;
+
+			width:700px;
+
+			text-align: right;
+
+			font:90px/50px nougat;
+
+		}
+
